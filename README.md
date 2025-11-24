@@ -39,3 +39,5 @@ Update dependencies
 <!-- Optimize imports -->
 
 <!-- Optimize imports -->
+
+<!-- Fix typo in README -->
