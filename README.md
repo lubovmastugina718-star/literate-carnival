@@ -43,3 +43,5 @@ Update dependencies
 <!-- Fix typo in README -->
 
 <!-- Add comments -->
+
+<!-- Update config files -->
