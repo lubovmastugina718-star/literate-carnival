@@ -21,3 +21,5 @@ Add new feature
 ## Update
 
 Fix edge case
+
+# Add error recovery
