@@ -23,3 +23,7 @@ Add new feature
 Fix edge case
 
 # Add error recovery
+
+## Update
+
+Improve error messages
