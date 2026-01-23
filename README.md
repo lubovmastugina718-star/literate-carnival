@@ -27,3 +27,7 @@ Fix edge case
 ## Update
 
 Improve error messages
+
+## Update
+
+Update dependencies
