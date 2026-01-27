@@ -7,3 +7,5 @@ class test:
 # Add feature flag
 
 # Update tests
+
+# Improve error handling
